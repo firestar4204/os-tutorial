@@ -15,6 +15,8 @@ I am going to use most of the content of the original tutorial, and then add thi
 - [ ] Keyboard input
 - [ ] Floppy drivers
 - [ ] FAT12 support
+- [ ] ATAPIO drivers
+- [ ] ISO 9660
 - [ ] Memory management
 - [ ] Simple shell
 
